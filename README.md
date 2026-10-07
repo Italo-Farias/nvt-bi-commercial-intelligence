@@ -1,11 +1,19 @@
 # NVT BI — Inteligência Comercial integrada a ERP
 
+![Capa do NVT BI](public/portfolio-cover.png)
+
 ![Status](https://img.shields.io/badge/status-demonstração-203c8c)
 ![Dados](https://img.shields.io/badge/dados-fictícios-0f9f68)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178c6)
 ![Next.js](https://img.shields.io/badge/Next.js-16-black)
 
 Versão pública e demonstrativa de uma plataforma de Business Intelligence criada para transformar dados operacionais de um ERP em indicadores comerciais, financeiros e gerenciais.
+
+## Demonstração online
+
+**[Acessar o NVT BI demonstrativo](https://nvt-bi-portfolio.italo-farias90.chatgpt.site)**
+
+Navegue pelos módulos de visão geral, vendas, metas, estoque, financeiro e assistente comercial. Nenhuma credencial é necessária.
 
 > **Privacidade:** pessoas, valores, metas, produtos e resultados exibidos nesta versão são fictícios. O repositório não contém credenciais, banco de produção, clientes reais ou conexão ativa com o ERP.
 
