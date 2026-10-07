@@ -64,7 +64,7 @@ flowchart LR
 ### Instalação
 
 ```bash
-git clone https://github.com/SEU-USUARIO/nvt-bi-commercial-intelligence.git
+git clone https://github.com/Italo-Farias/nvt-bi-commercial-intelligence.git
 cd nvt-bi-commercial-intelligence
 npm install
 npm run dev
